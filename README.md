@@ -1,4 +1,4 @@
-# Teal Tools Homebrew Tap
+# Homebrew Tap
 
 ## How do I install these formulae?
 
