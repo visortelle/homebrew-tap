@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install tealtools/brew/<formula>`
+`brew install visortelle/brew/<formula>`
 
-Or `brew tap tealtools/brew` and then `brew install <formula>`.
+Or `brew tap visortelle/brew` and then `brew install <formula>`.
 
 ## Documentation
 
